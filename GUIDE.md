@@ -21,6 +21,7 @@
 - [Eloquent JavaScript](http://eloquentjavascript.net/) is another great introduction to programming and learning JavaScript.
 - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) helps you understand and learn all the new features in the language.
 - [JSBooks](http://jsbooks.revolunet.com/) is a collection of free JavaScript books.
+- [JavaScript Design Patterns](http://shichuan.github.io/javascript-patterns/) is a good book for an intermediate programmer.
 
 ### Videos and Courses
 
