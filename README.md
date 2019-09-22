@@ -1,3 +1,5 @@
+<img src="/logo.jpg" width="200" />
+
 # Правила сообщества JS Liberty
 
 _September 22, 2019_
